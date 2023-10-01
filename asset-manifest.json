@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/TaxiBuenosAyres/static/css/main.b4bc7348.css",
+    "main.js": "/TaxiBuenosAyres/static/js/main.ceaaad34.js",
+    "static/js/787.5431e702.chunk.js": "/TaxiBuenosAyres/static/js/787.5431e702.chunk.js",
+    "static/media/calle.jpg": "/TaxiBuenosAyres/static/media/calle.8265ce282a1fc553f9d9.jpg",
+    "static/media/friend1.png": "/TaxiBuenosAyres/static/media/friend1.18724d1ab7b6d7bfe1f8.png",
+    "static/media/velCar1.png": "/TaxiBuenosAyres/static/media/velCar1.6cb80f3265c91589df0b.png",
+    "static/media/volante.png": "/TaxiBuenosAyres/static/media/volante.0e56188faf960aecfb45.png",
+    "static/media/PuñoI.png": "/TaxiBuenosAyres/static/media/PuñoI.1db6a0d1e78a661d6bc9.png",
+    "static/media/guy1.png": "/TaxiBuenosAyres/static/media/guy1.194d5eb6f88dcf26abf8.png",
+    "static/media/alert.png": "/TaxiBuenosAyres/static/media/alert.182d5385faf9ed7d6716.png",
+    "static/media/Succes1.png": "/TaxiBuenosAyres/static/media/Succes1.6f298cca57a5a8b36055.png",
+    "index.html": "/TaxiBuenosAyres/index.html",
+    "main.b4bc7348.css.map": "/TaxiBuenosAyres/static/css/main.b4bc7348.css.map",
+    "main.ceaaad34.js.map": "/TaxiBuenosAyres/static/js/main.ceaaad34.js.map",
+    "787.5431e702.chunk.js.map": "/TaxiBuenosAyres/static/js/787.5431e702.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b4bc7348.css",
+    "static/js/main.ceaaad34.js"
+  ]
+}
